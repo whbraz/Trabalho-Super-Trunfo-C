@@ -18,19 +18,9 @@ A carta vencedora é definida pela soma dos valores dos atributos escolhidos.
 - Pontos Turísticos
 - Densidade Demográfica
 
-## Como compilar
-
-Utilize um compilador C, como o GCC.
-
-Exemplo no terminal:
-
-gcc super_trunfo.c -o super_trunfo
-
 ## Como executar
 
-Após compilar, execute o programa com o comando:
-
-./super_trunfo
+O programa é executado pelo terminal integrado do Visual Studio Code após a compilação com o GCC.
 
 ## Exemplo de uso
 
